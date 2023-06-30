@@ -1,0 +1,11 @@
+Assignment-10(Swing)
+1.wap to create 3 check boxes to display bold,italic
+and underline to the user.
+2.wap to create a list box with names of some languages from where the user
+can select one or more items.(frame implements itemlistener)
+3.wap that helps in creating 2 push buttons bearing the names
+of two colors.when a button is clicked,that particular color
+is set as background color in the frame.
+4.wap to create a choice menu with names of some languages
+from where the user has to select any one item.the selected item must also
+be displayed in the frame.

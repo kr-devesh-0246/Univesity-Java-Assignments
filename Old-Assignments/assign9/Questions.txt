@@ -1,0 +1,8 @@
+Assignment-9(AWT)
+1.wap to create a frame by creating an object to frame class
+2.wap to create a frame by creating an object to the subclass of Frame class.
+3.wap to display some text in the frame using drawString() method.frame
+with background color and message
+4.wap to display an image in the frame and also in the title bar of the frame.5.wap to create two labels and two textFields for entering name and
+passwords.the password typed by the user in the text field is hidden.
+6.wap to create 3 check boxes to display bold,italic and underline to the user.

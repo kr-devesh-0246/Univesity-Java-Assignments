@@ -1,0 +1,10 @@
+Assignment-2 (Command Line Arguments)
+1. WAP to enter three integers as C.L.A. and find the sum and average.
+2. WAP to enter three float numbers as C.L.A. and find their maximum.
+3. WAP to count the number of C.L.A. that a user has entered.
+Hint: int number = args.length
+4. WAP to input ‘n’ number of C.L.A. and display all the values.
+Hint: for(int i=0;i<args.length;i++)
+SOPL(args[i]);
+5. WAP to accept two strings, CVRAMAN and UNIVERSITY, the output generated
+is CVRAMAN GLOBAL UNIVERSITY

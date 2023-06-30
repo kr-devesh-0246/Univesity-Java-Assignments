@@ -1,0 +1,7 @@
+Assignment-6 (Exception Handling)
+1.wap to using one try block,multiple catch block
+2.forcibly we want to create the exception
+3.wap how to create user-defined exceptions5.wap how to handle unchecked exception,using try and catch block
+6.wap how to handle checked exception,using try and catch block
+7.wap to illustrate finally in case where exception do not occure in the
+program

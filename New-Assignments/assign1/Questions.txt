@@ -1,0 +1,7 @@
+Assignment-1 (Basic programs)
+1.write a program to print “Hello world”.
+2.write a program to perform basic arithmetic operation on two variable.
+3.write a program to swap two numbers using 3rd variable and without using
+third variable.
+4. Write a program to find area and perimeter of a circle, rectangle.
+5. Write a program to convert temperature from celsius to farenhite.

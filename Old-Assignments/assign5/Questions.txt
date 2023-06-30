@@ -1,0 +1,12 @@
+Assignment-5 (Interface)
+1.wap where calculate() method of super class is overridden
+by the calculate() method of sub class.
+the behavior of the calculate() method is dynamically decided
+2.wap to create sample class which contains two methods
+with the same name but with different signatures
+3.wap where myclass's calculate() method is available to all the objects and
+hence every object can calculate the square value.
+4.wap where the abstract class myclass has one abstract method which has
+got various implementations in sub classes.
+5.wap to demonstrate working interface inside another interface.
+6.wap to check to access a private inner clas from an outside class or not.

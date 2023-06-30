@@ -1,0 +1,9 @@
+Assignment-7 (Thread)
+1.create two classes name as hii and hello and showing how exception can
+occure if we pass the timeout value and it display 4 times hii and hello.
+2.wap to display multithreading using runnable interface in java and we
+cannot acheive multiple inheritance.we can acheive by interface.
+3.wap to find the thread used by JVM to execute the statements.
+4.wap to create mythread class with run() method and then attach a thread
+to this mythread class object.
+5.wap to implement isAlive() method in multithreading.

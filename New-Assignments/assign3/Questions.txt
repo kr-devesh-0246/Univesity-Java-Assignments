@@ -1,0 +1,18 @@
+Assignment-3 (String Implementation)
+1.write a program to check whether a given String is Palindrome or not.
+2.write a program that will concatenate 2 strings and the return the result
+should be lower case.
+NOTE-if the concatenation creates a double-char,then one of the characters
+need to be omitted.
+Example-I/P: Sachin, Tendulkar
+o/p:sachin Tendulkar
+3.Given a string , return a new string made of ‘n’ copies of the first 2 chars of the
+original string where ‘n’ is the length of the string.
+Example-i/p:Wipro
+o/p:WiWiWiWiWI
+4.write a program that accepts a string and returns a new string without the first
+and last character of the input string.
+Example:i/p:Suman
+o/p:uma
+5.write a program that will return the first half of the string.if the length of the
+string is even.It should return null for odd length string.

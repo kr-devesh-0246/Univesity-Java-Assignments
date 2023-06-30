@@ -1,0 +1,14 @@
+Assignment-4 (Inheritance)
+1. WAP to find areas of square and rectangle by deriving them from shape.
+Shape is the super class for square.
+2. WAP to prove that the default constructor of the super class is available
+to subclass by default calling super class default constructor from sub
+class.
+3. WAP where the name of the instance variables and methods in super and
+sub classes are same. Hence, by default only sub class members are
+accessible.
+4. WAP to understand private members are not accessible in sub class, but
+protected members are available in sub class.
+5. WAP to understand that the parameterized constructor of the super class
+can be called from sub class using super () calling super class
+parameterized constructor from sub class.
